@@ -1,0 +1,26 @@
+{
+  "name": "homepage",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@icon-park/vue-next": "^1.4.2",
+    "autoprefixer": "^10.4.13",
+    "axios": "^1.3.4",
+    "hover.css": "^2.3.2",
+    "path": "^0.12.7",
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@types/node": "^18.14.0",
+    "@vitejs/plugin-vue": "^4.0.0",
+    "animate.css": "^4.1.1",
+    "sass": "^1.58.3",
+    "vite": "^4.0.0"
+  }
+}
